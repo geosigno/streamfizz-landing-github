@@ -42,7 +42,6 @@
     "@sendgrid/mail": "^8.1.5",
     "@strapi/blocks-react-renderer": "^1.0.2",
     "@streamfizz/player": "^1.0.28",
-    "@vercel/analytics": "^1.5.0",
     "autoprefixer": "^10.4.20",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",

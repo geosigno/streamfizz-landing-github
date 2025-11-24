@@ -1,5 +1,5 @@
 // app/layout.tsx
-import { Analytics } from '@vercel/analytics/next'
+//import { Analytics } from '@vercel/analytics/next'
 import { Metadata } from 'next'
 import dynamic from 'next/dynamic'
 import { Poppins } from 'next/font/google'
@@ -57,7 +57,7 @@ export default function RootLayout({
         <ContactModal />
         <Cookie />
         <JsonLd jsonLd={organizationJsonLd} />
-        <Analytics />
+
       </body>
     </html>
   )
